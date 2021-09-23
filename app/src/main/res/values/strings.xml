@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="buSignName">Аутентифицироваться</string>
+    <string name="avatarDescription">Аватар пользователя</string>
+</resources>
